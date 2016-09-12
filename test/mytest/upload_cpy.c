@@ -50,6 +50,16 @@ extern char **environ;
 #define REDIS_SER_IP "127.0.0.1"
 #define REDIS_SER_PORT "6379"
 
+
+static void PrintEnv(char *label, char **envp)
+{
+    printf("%s:<br>\n<pre>\n", label);
+    for ( ; *envp != NULL; envp++) {
+        printf("%s\n", *envp);
+    }
+    printf("</pre><p>\n");
+}
+
 int get_upload_context(char *data_read_buf,int len,char *file_name_buf)
 {
     char *p = NULL,*head = NULL,*end =NULL,*temp = NULL;
@@ -78,7 +88,7 @@ int get_upload_context(char *data_read_buf,int len,char *file_name_buf)
     }
     p = strstr(p,"Content-Type");
     p = strstr(p,"\r\n");
-    p += 4;
+    p += 3;
     head = p;
     for(;;p++)
     {
@@ -92,9 +102,11 @@ int get_upload_context(char *data_read_buf,int len,char *file_name_buf)
             continue;
         }
     }
-    end = p - strlen(head_buf) -3;
+    end = p - strlen(head_buf) - 3;
+    *end = '\0';
+    memcpy(content_buf,head,(end - head)+1);
     fd = open(file_name_buf,O_CREAT|O_WRONLY|O_TRUNC,0644);
-    write(fd,head,end-head);
+    write(fd,content_buf,sizeof(content_buf));
     close(fd);
     return 0;
 
@@ -105,8 +117,6 @@ int upload_fdfs(char * file_name_buf,char *fdfs_file_name)
     int pipefd[2];
     int ret = 0;
 
-        LOG("mytest","mytest","the upload file is %s",file_name_buf);
-        LOG("mytest","mytest","the upload file is %s",fdfs_file_name);
     ret = pipe(pipefd);
     if(ret != 0)
     {
@@ -123,7 +133,6 @@ int upload_fdfs(char * file_name_buf,char *fdfs_file_name)
     {
         close(pipefd[0]);
         dup2(pipefd[1],STDOUT_FILENO);
-        LOG("mytest","mytest","the upload file is %s",file_name_buf);
         ret = execlp("fdfs_upload_file","fdfs_upload_file","./conf/client.conf",file_name_buf,NULL);
         LOG("mytest","mytest","the upload file is %s",file_name_buf);
         if(ret == -1)
@@ -139,6 +148,13 @@ int upload_fdfs(char * file_name_buf,char *fdfs_file_name)
         fdfs_file_name[strlen(fdfs_file_name) - 1] = '\0';
         LOG("mytest","mytest","the upload file is %s",fdfs_file_name);
         wait(NULL);
+        //        ret = unlink(file_name_buf);
+        //    if(ret != 0)
+        //    {
+
+        //  LOG("mytest","mytest","unlink %s\n error",file_name_buf);
+        // return 0;
+        //     }
     }
     return 0;
 }
@@ -167,7 +183,7 @@ int upload_redis(char * fdfs_file_name,char * file_name_buf)
     file_id[strlen(fdfs_file_name)] = '|';
     //url + |
     strcpy(url,fdfs_file_name);
-    sprintf(url,"http://192.168.21.110/%s|",fdfs_file_name);
+    url[strlen(fdfs_file_name)] = '|';
     //filename + |
     strcpy(filename,file_name_buf);
     filename[strlen(file_name_buf)] = '|';
@@ -193,10 +209,9 @@ int upload_redis(char * fdfs_file_name,char * file_name_buf)
     LOG("mytest","mytest","push_list is %s",push_list);
 
     ret = rop_list_push(conn, "FILE_INFO_LIST", push_list); 
-    memset(push_list,0,sizeof(push_list));
     if(ret == 0)
     {
-        LOG("mytest","mytest","push list succ");
+    LOG("mytest","mytest","push list succ");
 
     }
     rop_disconnect(conn);
@@ -220,11 +235,14 @@ int main ()
         int len;
 
         printf("Content-type: text/html\r\n"
-                "\r\n");
+                "\r\n"
+                "<title>FastCGI echo</title>"
+                "<h1>FastCGI echo</h1>\n"
+                "Request number %d,  Process ID: %d<p>\n", ++count, getpid());
 
         if (contentLength != NULL) {
             len = strtol(contentLength, NULL, 10);
-            data_read_buf = (char *)malloc(sizeof(char)*len + 1);
+            data_read_buf = (char *)malloc(sizeof(char)*len);
             memset(data_read_buf,0,sizeof(data_read_buf));
         }
         else {
@@ -252,8 +270,11 @@ int main ()
             get_upload_context(data_read_buf,len,file_name_buf);
             free(data_read_buf);
             //close(fd);
-        LOG("mytest","mytest","file_name_buf %s",file_name_buf);
+            printf("\n</pre><p>\n");
+        }
 
+        PrintEnv("Request environment", environ);
+        PrintEnv("Initial environment", initialEnv);
         //将文件上传到fastDFS
         upload_fdfs(file_name_buf,fdfs_file_name);
         //将本地文件删除
@@ -265,12 +286,7 @@ int main ()
             return 0;
         }
         //将文件以一定格式上传到redis
-             upload_redis(fdfs_file_name,file_name_buf);
-            printf("\n</pre><p>\n");
-
-            memset(fdfs_file_name,0,sizeof(fdfs_file_name));
-            memset(file_name_buf,0,sizeof(file_name_buf));
-        }
+        upload_redis(fdfs_file_name,file_name_buf);
 
     } /* while */
 

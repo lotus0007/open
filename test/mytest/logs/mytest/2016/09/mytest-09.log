@@ -1,0 +1,60 @@
+===20160909-093926,upload_fdfs[107]=== the upload file is@@@@@@@@@ 
+===20160909-093926,upload_fdfs[140]=== the upload file is 
+===20160909-094029,main[199]=== the upload file is start 
+===20160909-094029,main[200]=== the upload file is start#######helloworld.txt 
+===20160909-094049,upload_fdfs[107]=== the upload file is@@@@@@@@@ helloworld.txt
+===20160909-094049,upload_fdfs[140]=== the upload file is group1/M00/00/00/wKgVblfSEyGAIfeeAAAQAE4qcTY329.txt
+
+===20160909-100615,upload_fdfs[144]=== the upload file is group1/M00/00/00/wKgVblfSGReARoIfAAAQAE4qcTY436.txt
+
+===20160909-100615,upload_redis[163]=== redis connect succ
+===20160909-110247,upload_fdfs[147]=== the upload file is group1/M00/00/00/wKgVblfSJleAHc-HAAAQAE4qcTY062.txt
+
+===20160909-110247,upload_redis[174]=== redis connect succ
+===20160909-110247,upload_redis[181]=== file_id is group1/M00/00/00/wKgVblfSJleAHc-HAAAQAE4qcTY062.txt
+|
+===20160909-110247,upload_redis[185]=== url is group1/M00/00/00/wKgVblfSJleAHc-HAAAQAE4qcTY062.txt
+|
+===20160909-110247,upload_redis[189]=== filename is helloworld.txt|
+===20160909-110247,upload_redis[197]=== create_time is Fri Sep 09 11:02:47  2016|
+===20160909-110247,upload_redis[201]=== user lotus|
+===20160909-110247,upload_redis[205]=== type txt|
+===20160909-111114,upload_fdfs[147]=== the upload file is group1/M00/00/00/wKgVblfSKFKANxplAAAQAE4qcTY876.txt
+
+===20160909-111114,upload_redis[174]=== redis connect succ
+===20160909-111114,upload_redis[181]=== file_id is group1/M00/00/00/wKgVblfSKFKANxplAAAQAE4qcTY876.txt
+|
+===20160909-111114,upload_redis[185]=== url is group1/M00/00/00/wKgVblfSKFKANxplAAAQAE4qcTY876.txt
+|
+===20160909-111114,upload_redis[189]=== filename is helloworld.txt|
+===20160909-111114,upload_redis[197]=== create_time is Fri Sep 09 11:11:14  2016|
+===20160909-111114,upload_redis[201]=== user lotus|
+===20160909-111114,upload_redis[205]=== type txt|
+===20160909-111114,upload_redis[213]=== push_list is group1/M00/00/00/wKgVblfSKFKANxplAAAQAE4qcTY876.txt
+|group1/M00/00/00/wKgVblfSKFKANxplAAAQAE4qcTY876.txt
+|helloworld.txt|Fri Sep 09 11:11:14  2016|lotus|txt|
+===20160909-111506,upload_fdfs[149]=== the upload file is group1/M00/00/00/wKgVblfSKTqAfiwMAAAQAE4qcTY250.txt
+===20160909-111506,upload_redis[176]=== redis connect succ
+===20160909-111506,upload_redis[183]=== file_id is group1/M00/00/00/wKgVblfSKTqAfiwMAAAQAE4qcTY250.txt|
+===20160909-111506,upload_redis[187]=== url is group1/M00/00/00/wKgVblfSKTqAfiwMAAAQAE4qcTY250.txt|
+===20160909-111506,upload_redis[191]=== filename is helloworld.txt|
+===20160909-111506,upload_redis[199]=== create_time is Fri Sep 09 11:15:06  2016|
+===20160909-111506,upload_redis[203]=== user lotus|
+===20160909-111506,upload_redis[207]=== type txt|
+===20160909-111506,upload_redis[215]=== push_list is group1/M00/00/00/wKgVblfSKTqAfiwMAAAQAE4qcTY250.txt|group1/M00/00/00/wKgVblfSKTqAfiwMAAAQAE4qcTY250.txt|helloworld.txt|Fri Sep 09 11:15:06  2016|lotus|txt|
+===20160909-112240,upload_fdfs[149]=== the upload file is group1/M00/00/00/wKgVblfSKwCANUYdAAAQAE4qcTY073.txt
+===20160909-112240,upload_redis[177]=== redis connect succ
+===20160909-112240,upload_redis[209]=== push_list is group1/M00/00/00/wKgVblfSKwCANUYdAAAQAE4qcTY073.txt|group1/M00/00/00/wKgVblfSKwCANUYdAAAQAE4qcTY073.txt|helloworld.txt|Fri Sep 09 11:22:40  2016|lotus|txt
+===20160909-112240,upload_redis[214]=== push list succ
+===20160909-112557,upload_fdfs[149]=== the upload file is group1/M00/00/00/wKgVblfSK8WARSxNAAAQADWO_vk956.txt
+===20160909-112557,upload_redis[177]=== redis connect succ
+===20160909-112557,upload_redis[209]=== push_list is group1/M00/00/00/wKgVblfSK8WARSxNAAAQADWO_vk956.txt|group1/M00/00/00/wKgVblfSK8WARSxNAAAQADWO_vk956.txt|失控.txt.txt|Fri Sep 09 11:25:57  2016|lotus|txt
+===20160909-112557,upload_redis[214]=== push list succ
+===20160909-113025,upload_fdfs[149]=== the upload file is group1/M00/00/00/wKgVblfSLNGAEj7oAAAQAE4qcTY741.txt
+===20160909-113025,upload_redis[177]=== redis connect succ
+===20160909-113025,upload_redis[209]=== push_list is group1/M00/00/00/wKgVblfSLNGAEj7oAAAQAE4qcTY741.txt|group1/M00/00/00/wKgVblfSLNGAEj7oAAAQAE4qcTY741.txt|helloworld1.txt|Fri Sep 09 11:30:25  2016|lotus|txt
+===20160909-113025,upload_redis[214]=== push list succ
+===20160909-143633,upload_fdfs[149]=== the upload file is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-143633,upload_redis[177]=== redis connect succ
+===20160909-143633,upload_redis[209]=== push_list is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt
+===20160909-143633,upload_redis[214]=== push list succ

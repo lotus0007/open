@@ -1,0 +1,633 @@
+===20160909-152746,get_query[67]=== the query_string is cmd=fileid&count=8
+===20160909-160646,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-160646,get_query[97]=== redis conn succ
+===20160909-161256,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-161256,get_query[85]=== iformid is 0
+===20160909-161256,get_query[87]=== icount is 2
+===20160909-161256,get_query[99]=== redis conn succ
+===20160909-162048,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-162048,get_query[85]=== iformid is 0
+===20160909-162048,get_query[87]=== icount is 2
+===20160909-162048,get_query[99]=== redis conn succ
+===20160909-162414,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-162414,get_query[85]=== iformid is 0
+===20160909-162414,get_query[87]=== icount is 2
+===20160909-162414,get_query[99]=== redis conn succ
+===20160909-163511,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-163511,get_query[85]=== iformid is 0
+===20160909-163511,get_query[87]=== icount is 2
+===20160909-163511,get_query[100]=== redis conn succ
+===20160909-163722,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-163722,get_query[85]=== iformid is 0
+===20160909-163722,get_query[87]=== icount is 2
+===20160909-163722,get_query[104]=== redis conn succ
+===20160909-164223,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-164223,get_query[85]=== iformid is 0
+===20160909-164223,get_query[87]=== icount is 2
+===20160909-164223,get_query[103]=== redis conn succ
+===20160909-164223,get_query[106]=== redis return values is ret 0
+===20160909-171948,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-171948,get_query[85]=== iformid is 0
+===20160909-171948,get_query[87]=== icount is 2
+===20160909-171948,get_query[108]=== redis conn succ
+===20160909-173604,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-173604,get_query[85]=== iformid is 0
+===20160909-173604,get_query[87]=== icount is 2
+===20160909-173604,get_query[104]=== redis conn succ
+===20160909-173907,get_query[76]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-173907,get_query[85]=== iformid is 0
+===20160909-173907,get_query[87]=== icount is 2
+===20160909-173907,get_query[104]=== redis conn succ
+===20160909-173907,get_query[107]=== redis return values is ret 0
+===20160909-173907,get_query[108]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-195641,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-195641,get_query[86]=== iformid is 0
+===20160909-195641,get_query[88]=== icount is 2
+===20160909-195641,get_query[103]=== redis conn succ
+===20160909-195641,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-200139,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-200139,get_query[86]=== iformid is 0
+===20160909-200139,get_query[88]=== icount is 2
+===20160909-200139,get_query[103]=== redis conn succ
+===20160909-200139,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-200139,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-200139,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-200139,get_query[147]=== title_m is helloworld1.txt
+===20160909-200139,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-200139,get_query[159]=== user1 is lotus
+===20160909-201244,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-201244,get_query[86]=== iformid is 0
+===20160909-201244,get_query[88]=== icount is 2
+===20160909-201244,get_query[103]=== redis conn succ
+===20160909-201244,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-201244,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201244,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201244,get_query[147]=== title_m is helloworld1.txt
+===20160909-201244,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201244,get_query[159]=== user1 is lotus
+===20160909-201244,get_query[164]=== typwis txt
+===20160909-201244,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201244,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201244,get_query[147]=== title_m is helloworld1.txt
+===20160909-201244,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201244,get_query[159]=== user1 is lotus
+===20160909-201244,get_query[164]=== typwis txt
+===20160909-201308,get_query[77]=== the query_string is 
+===20160909-201308,get_query[86]=== iformid is 0
+===20160909-201308,get_query[88]=== icount is 0
+===20160909-201308,get_query[103]=== redis conn succ
+===20160909-201308,get_query[106]=== redis return values is ,get_num is 0
+===20160909-201318,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-201318,get_query[86]=== iformid is 0
+===20160909-201318,get_query[88]=== icount is 8
+===20160909-201318,get_query[103]=== redis conn succ
+===20160909-201318,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-201318,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[147]=== title_m is helloworld1.txt
+===20160909-201318,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201318,get_query[159]=== user1 is lotus
+===20160909-201318,get_query[164]=== typwis txt
+===20160909-201318,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[147]=== title_m is helloworld1.txt
+===20160909-201318,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201318,get_query[159]=== user1 is lotus
+===20160909-201318,get_query[164]=== typwis txt
+===20160909-201318,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[147]=== title_m is helloworld1.txt
+===20160909-201318,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201318,get_query[159]=== user1 is lotus
+===20160909-201318,get_query[164]=== typwis txt
+===20160909-201318,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201318,get_query[147]=== title_m is helloworld1.txt
+===20160909-201318,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201318,get_query[159]=== user1 is lotus
+===20160909-201318,get_query[164]=== typwis txt
+===20160909-201338,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-201338,get_query[86]=== iformid is 0
+===20160909-201338,get_query[88]=== icount is 8
+===20160909-201338,get_query[103]=== redis conn succ
+===20160909-201338,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-201338,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[147]=== title_m is helloworld1.txt
+===20160909-201338,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201338,get_query[159]=== user1 is lotus
+===20160909-201338,get_query[164]=== typwis txt
+===20160909-201338,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[147]=== title_m is helloworld1.txt
+===20160909-201338,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201338,get_query[159]=== user1 is lotus
+===20160909-201338,get_query[164]=== typwis txt
+===20160909-201338,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[147]=== title_m is helloworld1.txt
+===20160909-201338,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201338,get_query[159]=== user1 is lotus
+===20160909-201338,get_query[164]=== typwis txt
+===20160909-201338,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201338,get_query[147]=== title_m is helloworld1.txt
+===20160909-201338,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201338,get_query[159]=== user1 is lotus
+===20160909-201338,get_query[164]=== typwis txt
+===20160909-201403,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-201403,get_query[86]=== iformid is 0
+===20160909-201403,get_query[88]=== icount is 8
+===20160909-201403,get_query[103]=== redis conn succ
+===20160909-201403,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-201403,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[147]=== title_m is helloworld1.txt
+===20160909-201403,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201403,get_query[159]=== user1 is lotus
+===20160909-201403,get_query[164]=== typwis txt
+===20160909-201403,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[147]=== title_m is helloworld1.txt
+===20160909-201403,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201403,get_query[159]=== user1 is lotus
+===20160909-201403,get_query[164]=== typwis txt
+===20160909-201403,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[147]=== title_m is helloworld1.txt
+===20160909-201403,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201403,get_query[159]=== user1 is lotus
+===20160909-201403,get_query[164]=== typwis txt
+===20160909-201403,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-201403,get_query[147]=== title_m is helloworld1.txt
+===20160909-201403,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-201403,get_query[159]=== user1 is lotus
+===20160909-201403,get_query[164]=== typwis txt
+===20160909-202002,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-202002,get_query[86]=== iformid is 0
+===20160909-202002,get_query[88]=== icount is 8
+===20160909-202002,get_query[103]=== redis conn succ
+===20160909-202002,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-202002,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[147]=== title_m is helloworld1.txt
+===20160909-202002,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202002,get_query[159]=== user1 is lotus
+===20160909-202002,get_query[164]=== typwis txt
+===20160909-202002,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[147]=== title_m is helloworld1.txt
+===20160909-202002,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202002,get_query[159]=== user1 is lotus
+===20160909-202002,get_query[164]=== typwis txt
+===20160909-202002,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[147]=== title_m is helloworld1.txt
+===20160909-202002,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202002,get_query[159]=== user1 is lotus
+===20160909-202002,get_query[164]=== typwis txt
+===20160909-202002,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202002,get_query[147]=== title_m is helloworld1.txt
+===20160909-202002,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202002,get_query[159]=== user1 is lotus
+===20160909-202002,get_query[164]=== typwis txt
+===20160909-202012,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-202012,get_query[86]=== iformid is 0
+===20160909-202012,get_query[88]=== icount is 2
+===20160909-202012,get_query[103]=== redis conn succ
+===20160909-202012,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-202012,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202012,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202012,get_query[147]=== title_m is helloworld1.txt
+===20160909-202012,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202012,get_query[159]=== user1 is lotus
+===20160909-202012,get_query[164]=== typwis txt
+===20160909-202012,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202012,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202012,get_query[147]=== title_m is helloworld1.txt
+===20160909-202012,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202012,get_query[159]=== user1 is lotus
+===20160909-202012,get_query[164]=== typwis txt
+===20160909-202015,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-202015,get_query[86]=== iformid is 0
+===20160909-202015,get_query[88]=== icount is 2
+===20160909-202015,get_query[103]=== redis conn succ
+===20160909-202015,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-202015,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202015,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202015,get_query[147]=== title_m is helloworld1.txt
+===20160909-202015,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202015,get_query[159]=== user1 is lotus
+===20160909-202015,get_query[164]=== typwis txt
+===20160909-202015,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202015,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202015,get_query[147]=== title_m is helloworld1.txt
+===20160909-202015,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202015,get_query[159]=== user1 is lotus
+===20160909-202015,get_query[164]=== typwis txt
+===20160909-202229,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-202229,get_query[86]=== iformid is 0
+===20160909-202229,get_query[88]=== icount is 2
+===20160909-202229,get_query[103]=== redis conn succ
+===20160909-202229,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-202229,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202229,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202229,get_query[147]=== title_m is helloworld1.txt
+===20160909-202229,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202229,get_query[159]=== user1 is lotus
+===20160909-202229,get_query[164]=== typwis txt
+===20160909-202229,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202229,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202229,get_query[147]=== title_m is helloworld1.txt
+===20160909-202229,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202229,get_query[159]=== user1 is lotus
+===20160909-202229,get_query[164]=== typwis txt
+===20160909-202239,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-202239,get_query[86]=== iformid is 0
+===20160909-202239,get_query[88]=== icount is 8
+===20160909-202239,get_query[103]=== redis conn succ
+===20160909-202239,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-202239,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[147]=== title_m is helloworld1.txt
+===20160909-202239,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202239,get_query[159]=== user1 is lotus
+===20160909-202239,get_query[164]=== typwis txt
+===20160909-202239,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[147]=== title_m is helloworld1.txt
+===20160909-202239,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202239,get_query[159]=== user1 is lotus
+===20160909-202239,get_query[164]=== typwis txt
+===20160909-202239,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[147]=== title_m is helloworld1.txt
+===20160909-202239,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202239,get_query[159]=== user1 is lotus
+===20160909-202239,get_query[164]=== typwis txt
+===20160909-202239,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202239,get_query[147]=== title_m is helloworld1.txt
+===20160909-202239,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202239,get_query[159]=== user1 is lotus
+===20160909-202239,get_query[164]=== typwis txt
+===20160909-202245,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-202245,get_query[86]=== iformid is 0
+===20160909-202245,get_query[88]=== icount is 8
+===20160909-202245,get_query[103]=== redis conn succ
+===20160909-202245,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-202245,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[147]=== title_m is helloworld1.txt
+===20160909-202245,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202245,get_query[159]=== user1 is lotus
+===20160909-202245,get_query[164]=== typwis txt
+===20160909-202245,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[147]=== title_m is helloworld1.txt
+===20160909-202245,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202245,get_query[159]=== user1 is lotus
+===20160909-202245,get_query[164]=== typwis txt
+===20160909-202245,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[147]=== title_m is helloworld1.txt
+===20160909-202245,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202245,get_query[159]=== user1 is lotus
+===20160909-202245,get_query[164]=== typwis txt
+===20160909-202245,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202245,get_query[147]=== title_m is helloworld1.txt
+===20160909-202245,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202245,get_query[159]=== user1 is lotus
+===20160909-202245,get_query[164]=== typwis txt
+===20160909-202252,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-202252,get_query[86]=== iformid is 0
+===20160909-202252,get_query[88]=== icount is 8
+===20160909-202252,get_query[103]=== redis conn succ
+===20160909-202252,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-202252,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[147]=== title_m is helloworld1.txt
+===20160909-202252,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202252,get_query[159]=== user1 is lotus
+===20160909-202252,get_query[164]=== typwis txt
+===20160909-202252,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[147]=== title_m is helloworld1.txt
+===20160909-202252,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202252,get_query[159]=== user1 is lotus
+===20160909-202252,get_query[164]=== typwis txt
+===20160909-202252,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[147]=== title_m is helloworld1.txt
+===20160909-202252,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202252,get_query[159]=== user1 is lotus
+===20160909-202252,get_query[164]=== typwis txt
+===20160909-202252,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202252,get_query[147]=== title_m is helloworld1.txt
+===20160909-202252,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202252,get_query[159]=== user1 is lotus
+===20160909-202252,get_query[164]=== typwis txt
+===20160909-202608,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-202608,get_query[86]=== iformid is 0
+===20160909-202608,get_query[88]=== icount is 2
+===20160909-202608,get_query[103]=== redis conn succ
+===20160909-202608,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-202608,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202608,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202608,get_query[147]=== title_m is helloworld1.txt
+===20160909-202608,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202608,get_query[159]=== user1 is lotus
+===20160909-202608,get_query[164]=== typwis txt
+===20160909-202608,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202608,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-202608,get_query[147]=== title_m is helloworld1.txt
+===20160909-202608,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-202608,get_query[159]=== user1 is lotus
+===20160909-202608,get_query[164]=== typwis txt
+===20160909-203112,get_query[77]=== the query_string is 
+===20160909-203112,get_query[86]=== iformid is 0
+===20160909-203112,get_query[88]=== icount is 0
+===20160909-203112,get_query[103]=== redis conn succ
+===20160909-203112,get_query[106]=== redis return values is ,get_num is 0
+===20160909-203123,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-203123,get_query[86]=== iformid is 0
+===20160909-203123,get_query[88]=== icount is 8
+===20160909-203123,get_query[103]=== redis conn succ
+===20160909-203123,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-203123,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[147]=== title_m is helloworld1.txt
+===20160909-203123,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203123,get_query[159]=== user1 is lotus
+===20160909-203123,get_query[164]=== typwis txt
+===20160909-203123,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[147]=== title_m is helloworld1.txt
+===20160909-203123,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203123,get_query[159]=== user1 is lotus
+===20160909-203123,get_query[164]=== typwis txt
+===20160909-203123,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[147]=== title_m is helloworld1.txt
+===20160909-203123,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203123,get_query[159]=== user1 is lotus
+===20160909-203123,get_query[164]=== typwis txt
+===20160909-203123,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203123,get_query[147]=== title_m is helloworld1.txt
+===20160909-203123,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203123,get_query[159]=== user1 is lotus
+===20160909-203123,get_query[164]=== typwis txt
+===20160909-203800,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-203800,get_query[86]=== iformid is 0
+===20160909-203800,get_query[88]=== icount is 8
+===20160909-203800,get_query[103]=== redis conn succ
+===20160909-203800,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-203800,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[147]=== title_m is helloworld1.txt
+===20160909-203800,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203800,get_query[159]=== user1 is lotus
+===20160909-203800,get_query[164]=== typwis txt
+===20160909-203800,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[147]=== title_m is helloworld1.txt
+===20160909-203800,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203800,get_query[159]=== user1 is lotus
+===20160909-203800,get_query[164]=== typwis txt
+===20160909-203800,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[147]=== title_m is helloworld1.txt
+===20160909-203800,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203800,get_query[159]=== user1 is lotus
+===20160909-203800,get_query[164]=== typwis txt
+===20160909-203800,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203800,get_query[147]=== title_m is helloworld1.txt
+===20160909-203800,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203800,get_query[159]=== user1 is lotus
+===20160909-203800,get_query[164]=== typwis txt
+===20160909-203807,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-203807,get_query[86]=== iformid is 0
+===20160909-203807,get_query[88]=== icount is 8
+===20160909-203807,get_query[103]=== redis conn succ
+===20160909-203807,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-203807,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[147]=== title_m is helloworld1.txt
+===20160909-203807,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203807,get_query[159]=== user1 is lotus
+===20160909-203807,get_query[164]=== typwis txt
+===20160909-203807,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[147]=== title_m is helloworld1.txt
+===20160909-203807,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203807,get_query[159]=== user1 is lotus
+===20160909-203807,get_query[164]=== typwis txt
+===20160909-203807,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[147]=== title_m is helloworld1.txt
+===20160909-203807,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203807,get_query[159]=== user1 is lotus
+===20160909-203807,get_query[164]=== typwis txt
+===20160909-203807,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203807,get_query[147]=== title_m is helloworld1.txt
+===20160909-203807,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203807,get_query[159]=== user1 is lotus
+===20160909-203807,get_query[164]=== typwis txt
+===20160909-203813,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-203813,get_query[86]=== iformid is 0
+===20160909-203813,get_query[88]=== icount is 8
+===20160909-203813,get_query[103]=== redis conn succ
+===20160909-203813,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-203813,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[147]=== title_m is helloworld1.txt
+===20160909-203813,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203813,get_query[159]=== user1 is lotus
+===20160909-203813,get_query[164]=== typwis txt
+===20160909-203813,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[147]=== title_m is helloworld1.txt
+===20160909-203813,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203813,get_query[159]=== user1 is lotus
+===20160909-203813,get_query[164]=== typwis txt
+===20160909-203813,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[147]=== title_m is helloworld1.txt
+===20160909-203813,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203813,get_query[159]=== user1 is lotus
+===20160909-203813,get_query[164]=== typwis txt
+===20160909-203813,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-203813,get_query[147]=== title_m is helloworld1.txt
+===20160909-203813,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-203813,get_query[159]=== user1 is lotus
+===20160909-203813,get_query[164]=== typwis txt
+===20160909-204130,get_query[77]=== the query_string is cmd=newfile&formid=0&count=2&user=lotus
+===20160909-204130,get_query[86]=== iformid is 0
+===20160909-204130,get_query[88]=== icount is 2
+===20160909-204130,get_query[103]=== redis conn succ
+===20160909-204130,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 2
+===20160909-204130,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204130,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204130,get_query[147]=== title_m is helloworld1.txt
+===20160909-204130,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204130,get_query[159]=== user1 is lotus
+===20160909-204130,get_query[164]=== typwis txt
+===20160909-204130,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204130,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204130,get_query[147]=== title_m is helloworld1.txt
+===20160909-204130,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204130,get_query[159]=== user1 is lotus
+===20160909-204130,get_query[164]=== typwis txt
+===20160909-204224,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-204224,get_query[86]=== iformid is 0
+===20160909-204224,get_query[88]=== icount is 8
+===20160909-204224,get_query[103]=== redis conn succ
+===20160909-204224,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-204224,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[147]=== title_m is helloworld1.txt
+===20160909-204224,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204224,get_query[159]=== user1 is lotus
+===20160909-204224,get_query[164]=== typwis txt
+===20160909-204224,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[147]=== title_m is helloworld1.txt
+===20160909-204224,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204224,get_query[159]=== user1 is lotus
+===20160909-204224,get_query[164]=== typwis txt
+===20160909-204224,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[147]=== title_m is helloworld1.txt
+===20160909-204224,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204224,get_query[159]=== user1 is lotus
+===20160909-204224,get_query[164]=== typwis txt
+===20160909-204224,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204224,get_query[147]=== title_m is helloworld1.txt
+===20160909-204224,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204224,get_query[159]=== user1 is lotus
+===20160909-204224,get_query[164]=== typwis txt
+===20160909-204234,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-204234,get_query[86]=== iformid is 0
+===20160909-204234,get_query[88]=== icount is 8
+===20160909-204234,get_query[103]=== redis conn succ
+===20160909-204234,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-204234,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[147]=== title_m is helloworld1.txt
+===20160909-204234,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204234,get_query[159]=== user1 is lotus
+===20160909-204234,get_query[164]=== typwis txt
+===20160909-204234,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[147]=== title_m is helloworld1.txt
+===20160909-204234,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204234,get_query[159]=== user1 is lotus
+===20160909-204234,get_query[164]=== typwis txt
+===20160909-204234,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[147]=== title_m is helloworld1.txt
+===20160909-204234,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204234,get_query[159]=== user1 is lotus
+===20160909-204234,get_query[164]=== typwis txt
+===20160909-204234,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204234,get_query[147]=== title_m is helloworld1.txt
+===20160909-204234,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204234,get_query[159]=== user1 is lotus
+===20160909-204234,get_query[164]=== typwis txt
+===20160909-204555,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-204555,get_query[86]=== iformid is 0
+===20160909-204555,get_query[88]=== icount is 8
+===20160909-204555,get_query[103]=== redis conn succ
+===20160909-204555,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-204555,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[147]=== title_m is helloworld1.txt
+===20160909-204555,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204555,get_query[159]=== user1 is lotus
+===20160909-204555,get_query[164]=== typwis txt
+===20160909-204555,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[147]=== title_m is helloworld1.txt
+===20160909-204555,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204555,get_query[159]=== user1 is lotus
+===20160909-204555,get_query[164]=== typwis txt
+===20160909-204555,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[147]=== title_m is helloworld1.txt
+===20160909-204555,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204555,get_query[159]=== user1 is lotus
+===20160909-204555,get_query[164]=== typwis txt
+===20160909-204555,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204555,get_query[147]=== title_m is helloworld1.txt
+===20160909-204555,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204555,get_query[159]=== user1 is lotus
+===20160909-204555,get_query[164]=== typwis txt
+===20160909-204559,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-204559,get_query[86]=== iformid is 0
+===20160909-204559,get_query[88]=== icount is 8
+===20160909-204559,get_query[103]=== redis conn succ
+===20160909-204559,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-204559,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[147]=== title_m is helloworld1.txt
+===20160909-204559,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204559,get_query[159]=== user1 is lotus
+===20160909-204559,get_query[164]=== typwis txt
+===20160909-204559,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[147]=== title_m is helloworld1.txt
+===20160909-204559,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204559,get_query[159]=== user1 is lotus
+===20160909-204559,get_query[164]=== typwis txt
+===20160909-204559,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[147]=== title_m is helloworld1.txt
+===20160909-204559,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204559,get_query[159]=== user1 is lotus
+===20160909-204559,get_query[164]=== typwis txt
+===20160909-204559,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204559,get_query[147]=== title_m is helloworld1.txt
+===20160909-204559,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204559,get_query[159]=== user1 is lotus
+===20160909-204559,get_query[164]=== typwis txt
+===20160909-204916,get_query[77]=== the query_string is cmd=newFile&fromId=0&count=8&user=
+===20160909-204916,get_query[86]=== iformid is 0
+===20160909-204916,get_query[88]=== icount is 8
+===20160909-204916,get_query[103]=== redis conn succ
+===20160909-204916,get_query[106]=== redis return values is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt|helloworld1.txt|Fri Sep 09 02:36:33  2016|lotus|txt,get_num is 4
+===20160909-204916,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[147]=== title_m is helloworld1.txt
+===20160909-204916,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204916,get_query[159]=== user1 is lotus
+===20160909-204916,get_query[164]=== typwis txt
+===20160909-204916,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[147]=== title_m is helloworld1.txt
+===20160909-204916,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204916,get_query[159]=== user1 is lotus
+===20160909-204916,get_query[164]=== typwis txt
+===20160909-204916,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[147]=== title_m is helloworld1.txt
+===20160909-204916,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204916,get_query[159]=== user1 is lotus
+===20160909-204916,get_query[164]=== typwis txt
+===20160909-204916,get_query[137]=== id is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[141]=== url is group1/M00/00/00/wKgVblfSWHGAPJtUAAAQAE4qcTY235.txt
+===20160909-204916,get_query[147]=== title_m is helloworld1.txt
+===20160909-204916,get_query[153]=== dwscrip is Fri Sep 09 02:36:33  2016
+===20160909-204916,get_query[159]=== user1 is lotus
+===20160909-204916,get_query[164]=== typwis txt

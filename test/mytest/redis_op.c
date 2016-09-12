@@ -893,7 +893,7 @@ int rop_range_list(redisContext *conn, char *key, int from_pos, int count, RVALU
     redisReply *reply = NULL;
     int max_count = 0;
 
-    reply = redisCommand(conn, "LRANGE %s %d %d", key, from_pos, count);
+    reply = redisCommand(conn, "LRANGE %s %d %d", key, from_pos, count + from_pos-1);
 //    rop_test_reply_type(reply);
 	if (reply->type != REDIS_REPLY_ARRAY) {
 		LOG(REDIS_LOG_MODULE, REDIS_LOG_PROC, "[-][GMS_REDIS]LRANGE %s  error!%s\n", key, conn->errstr);
